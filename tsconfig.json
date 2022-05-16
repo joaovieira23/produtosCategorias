@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "include": [
+    "src/**/*",
+    "package.json"
+  ],
+  "compilerOptions": {
+    "strict": true
+  }
+}
